@@ -8,6 +8,10 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
+ * Program takes System input and processes the result.
+ * Sample input = "King d3" (case insensitive).
+ * Prints all possible position for the piece on the chess board.
+ *
  * @author Ashish Karn
  */
 public class App {
